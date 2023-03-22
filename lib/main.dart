@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:sample_project/detail_page.dart';
-import 'package:sample_project/dimensions.dart';
 import 'package:sample_project/sign_up.dart';
 void main() {
   runApp(const MyApp());
